@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coder026jb
-- 👀 I have very much expirince with python and html, (css a javascript)
+- 👀 I have very much experience with python and html, (css a javascript)
 - 🌱 I’m currently learning lua
 
 <!---
